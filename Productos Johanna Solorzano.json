@@ -1,0 +1,397 @@
+{
+    "status": "OK",
+    "code": 200,
+    "total": 10,
+    "data": [
+        {
+            "id": 1,
+            "name": "Vela Aromática 'Serenidad Lavanda'",
+            "description": "Vela de cera de soja 100% natural con aceites esenciales de lavanda y manzanilla. Ideal para crear un ambiente relajante y acogedor.",
+            "ean": "7890123456789",
+            "upc": "987654321098",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Aroma relajante en tu hogar.",
+                    "description": "Detalle de la vela encendida, mostrando la llama y el vaso de cristal.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Ingredientes naturales.",
+                    "description": "Primer plano de la cera de soja y las hierbas secas incorporadas.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Ambiente acogedor.",
+                    "description": "Vela en un ambiente de salón, con iluminación tenue.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 18.50,
+            "taxes": 22,
+            "price": "22.57",
+            "categories": [
+                1,
+                5
+            ],
+            "tags": [
+                "Relajante",
+                "Natural",
+                "Lavanda",
+                "Bienestar",
+                "Artesanal"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jarrón Cerámica Estilo Nórdico",
+            "description": "Jarrón de diseño minimalista en cerámica con acabado mate. Perfecto para flores secas, ramas o como pieza decorativa.",
+            "ean": "1234567890123",
+            "upc": "123456789012",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Diseño elegante y sencillo.",
+                    "description": "Jarrón vacío sobre una mesa de madera, destacando su forma.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Textura mate premium.",
+                    "description": "Detalle de la superficie de cerámica y su acabado mate.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Ideal para cualquier rincón.",
+                    "description": "Jarrón con flores secas en un estante junto a libros.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 35.00,
+            "taxes": 22,
+            "price": "42.70",
+            "categories": [
+                3
+            ],
+            "tags": [
+                "Nórdico",
+                "Minimalista",
+                "Cerámica",
+                "Decoración",
+                "Escandinavo"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Cojín Decorativo de Terciopelo Rosa",
+            "description": "Suave y elegante cojín de terciopelo con cremallera oculta. Aporta un toque de color y confort a cualquier espacio.",
+            "ean": "2345678901234",
+            "upc": "234567890123",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Textura aterciopelada.",
+                    "description": "Primer plano de la tela de terciopelo y su brillo característico.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Comodidad y estilo.",
+                    "description": "Cojín sobre un sofá con mantas, creando un ambiente acogedor.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Ideal para combinar.",
+                    "description": "Cojín combinado con otros de diferentes texturas y colores.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 25.99,
+            "taxes": 22,
+            "price": "31.71",
+            "categories": [
+                2
+            ],
+            "tags": [
+                "Textil",
+                "Confort",
+                "Lujo",
+                "Rosa",
+                "Suave",
+                "Moderno"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lámina Botánica 'Hoja de Monstera'",
+            "description": "Impresión de alta calidad en papel premium de 250gr. Diseño inspirado en la naturaleza. Sin marco, para personalizar.",
+            "ean": "3456789012345",
+            "upc": "345678901234",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Detalle de la impresión.",
+                    "description": "Primer plano de la textura del papel y la calidad de la imagen.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Inspiración natural.",
+                    "description": "Lámina enmarcada en una pared blanca, con una planta real cercana.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Toque fresco para tu hogar.",
+                    "description": "Lámina expuesta sobre una cómoda con pequeños objetos decorativos.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 15.00,
+            "taxes": 22,
+            "price": "18.30",
+            "categories": [
+                4
+            ],
+            "tags": [
+                "Arte",
+                "Botánica",
+                "Moderno",
+                "Naturaleza",
+                "Wall Art"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Difusor de Aceites Esenciales Ultrasónico",
+            "description": "Moderno difusor de aromaterapia con luz LED cambiante y apagado automático por falta de agua. Capacidad de 300ml.",
+            "ean": "4567890123456",
+            "upc": "456789012345",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Vapor suave y silencioso.",
+                    "description": "Difusor en funcionamiento, mostrando la suave bruma.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Luces ambientales.",
+                    "description": "Cambio de colores de la luz LED en un ambiente oscuro.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Diseño elegante.",
+                    "description": "Difusor en una mesita de noche, con una planta y un libro.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 45.00,
+            "taxes": 22,
+            "price": "54.90",
+            "categories": [
+                1,
+                3
+            ],
+            "tags": [
+                "Aromaterapia",
+                "Bienestar",
+                "Tecnología",
+                "Salud",
+                "Relajante"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Set de 4 Tazas de Cerámica Artesanal",
+            "description": "Conjunto de tazas de cerámica hechas a mano con diseño rústico y esmaltado único. Perfectas para café, té o chocolate caliente.",
+            "ean": "5678901234567",
+            "upc": "567890123456",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Acabado único.",
+                    "description": "Primer plano del esmaltado y las variaciones naturales de la cerámica artesanal.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Agarre cómodo.",
+                    "description": "Mano sosteniendo una de las tazas, mostrando su ergonomía.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Para momentos especiales.",
+                    "description": "Tazas con bebidas calientes en una mesa de desayuno rústica.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 30.00,
+            "taxes": 22,
+            "price": "36.60",
+            "categories": [
+                5
+            ],
+            "tags": [
+                "Artesanal",
+                "Vajilla",
+                "Cocina",
+                "Rústico",
+                "Hecho a mano",
+                "Cerámica"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Espejo Decorativo de Sol Boho",
+            "description": "Espejo redondo con marco de ratán en forma de sol. Ideal para añadir un toque bohemio y natural a cualquier pared.",
+            "ean": "6789012345678",
+            "upc": "678901234567",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Detalle del tejido de ratán.",
+                    "description": "Primer plano del marco de ratán y su intrincado diseño.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Punto focal de la estancia.",
+                    "description": "Espejo colgado en una pared, reflejando una ventana con luz natural.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Estilo natural.",
+                    "description": "Espejo combinado con plantas y otros elementos decorativos de madera.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 55.00,
+            "taxes": 22,
+            "price": "67.10",
+            "categories": [
+                3,
+                6
+            ],
+            "tags": [
+                "Bohemio",
+                "Ratán",
+                "Pared",
+                "Decoración",
+                "Natural",
+                "Espejo"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Manta Suave de Punto Grueso",
+            "description": "Manta de punto de lana sintética ultra suave y voluminosa. Perfecta para acurrucarse en el sofá o como elemento decorativo en la cama.",
+            "ean": "7890123456780",
+            "upc": "789012345678",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Textura irresistible.",
+                    "description": "Primer plano de los hilos gruesos de la manta.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Para las tardes de lectura.",
+                    "description": "Manta doblada artísticamente sobre un sillón, con un libro y una taza.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Aporta calidez.",
+                    "description": "Manta cubriendo parte de una cama, creando un ambiente acogedor.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 49.99,
+            "taxes": 22,
+            "price": "60.99",
+            "categories": [
+                2
+            ],
+            "tags": [
+                "Textil",
+                "Confort",
+                "Invierno",
+                "Abrigador",
+                "Acogedor",
+                "Manta"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Maceta Geométricas de Cerámica con Soporte",
+            "description": "Set de dos macetas de cerámica con diseño geométrico y soporte metálico dorado. Ideal para plantas pequeñas de interior.",
+            "ean": "8901234567890",
+            "upc": "890123456789",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Diseño moderno.",
+                    "description": "Primer plano del patrón geométrico en la superficie de la maceta.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Para tus plantas favoritas.",
+                    "description": "Macetas con diferentes tipos de suculentas, en una ventana soleada.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Detalle de elegancia.",
+                    "description": "Macetas en un estante flotante, con otros elementos de decoración.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 38.00,
+            "taxes": 22,
+            "price": "46.36",
+            "categories": [
+                3,
+                7
+            ],
+            "tags": [
+                "Jardinería",
+                "Moderno",
+                "Geométrico",
+                "Plantas",
+                "Decoración"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Estantería Flotante de Madera Minimalista",
+            "description": "Estantería de madera maciza flotante. Perfecta para exhibir libros, fotos o pequeños objetos decorativos. Fácil instalación.",
+            "ean": "9012345678901",
+            "upc": "901234567890",
+            "image": "http://placeimg.com/640/480/house",
+            "images": [
+                {
+                    "title": "Acabado de alta calidad.",
+                    "description": "Detalle de la veta de la madera y el ensamblaje de la estantería.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Optimización del espacio.",
+                    "description": "Estantería con libros y pequeñas plantas en una pared de estudio.",
+                    "url": "http://placeimg.com/640/480/decor"
+                },
+                {
+                    "title": "Decoración versátil.",
+                    "description": "Estantería con marcos de fotos y souvenirs en un pasillo.",
+                    "url": "http://placeimg.com/640/480/decor"
+                }
+            ],
+            "net_price": 65.00,
+            "taxes": 22,
+            "price": "79.30",
+            "categories": [
+                3,
+                8
+            ],
+            "tags": [
+                "Minimalista",
+                "Madera",
+                "Organización",
+                "Funcional",
+                "Muebles",
+                "Pared"
+            ]
+        }
+    ]
+}
